@@ -42,5 +42,5 @@ Y alguna más...
 
 ## Contacto y apoyo:
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/info-servicios@cod3genius.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:info-servicios@cod3genius.com)
 
