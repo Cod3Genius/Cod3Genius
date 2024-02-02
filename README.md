@@ -28,7 +28,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![Discord](https://img.shields.io/badge/Discord-Cod3Genius-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]([https://mouredev.com/discord](https://discord.gg/QG9asFf7))
+[![Discord](https://img.shields.io/badge/Discord-Cod3Genius-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]([https://cod3genius.com/discord](https://discord.gg/QG9asFf7))
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@Cod3Genius-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/cod3genius)
 [![Instagram](https://img.shields.io/badge/Instagram-@Cod3Genius-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/cod3genius)
