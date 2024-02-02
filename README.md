@@ -31,7 +31,9 @@ Y alguna más...
 [![Discord](https://img.shields.io/badge/Discord-Cod3Genius-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]([https://cod3genius.com/discord](https://discord.gg/QG9asFf7))
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@Cod3Genius-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/cod3genius)
+</br>
 [![Instagram](https://img.shields.io/badge/Instagram-@Cod3Genius-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/cod3genius)
+</br>
 [![Facebook](https://img.shields.io/badge/Facebook-@Cod3Genius-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/cod3genius)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cod3Genius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cod3genius)
