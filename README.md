@@ -1,4 +1,4 @@
-![https://github.com/Cod3Genius](https://github.com/Cod3Genius/Cod3Genius/blob/main/BannerCod3Genius.jpg)
+![https://github.com/Cod3Genius](https://github.com/Cod3Genius/Cod3Genius/blob/main/Banner-cod3genius.png)
 
 
 Somos una empresa con 6 años de experiencia enfocada en el desarrollo de software y soluciones tecnológicas innovadoras. En COD3GENIUS, nos dedicamos a ofrecer productos de alta calidad que satisfagan las necesidades de nuestros clientes y usuarios finales. Nuestro compromiso con la excelencia y la innovación nos impulsa a crear impacto positivo en la sociedad a través del desarrollo de software de vanguardia. Ofrecemos servicios de Desarrollo de Software a Medida, Aplicaciones Móviles, Desarrollo Web, Consultoría Tecnológica, Integración de Sistemas y Soporte Técnico. 
@@ -15,8 +15,13 @@ Somos una empresa con 6 años de experiencia enfocada en el desarrollo de softwa
 </br>
 [![Python](https://img.shields.io/badge/Reflex-green?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C%23-007396?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![Reflex](https://img.shields.io/badge/Reflex-000000?style=for-the-badge&logo=haskell)]()
+</br>
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 </br>
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
