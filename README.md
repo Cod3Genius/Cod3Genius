@@ -1,4 +1,4 @@
-![https://github.com/Cod3Genius](https://github.com/Cod3Genius/Cod3Genius/blob/main/photo_2024-01-29_15-57-54.jpg)
+![https://github.com/Cod3Genius](https://github.com/Cod3Genius/Cod3Genius/blob/main/BannerCod3Genius.jpg)
 
 
 Somos una empresa con 6 años de experiencia enfocada en el desarrollo de software y soluciones tecnológicas innovadoras. En COD3GENIUS, nos dedicamos a ofrecer productos de alta calidad que satisfagan las necesidades de nuestros clientes y usuarios finales. Nuestro compromiso con la excelencia y la innovación nos impulsa a crear impacto positivo en la sociedad a través del desarrollo de software de vanguardia. Ofrecemos servicios de Desarrollo de Software a Medida, Aplicaciones Móviles, Desarrollo Web, Consultoría Tecnológica, Integración de Sistemas y Soporte Técnico. 
