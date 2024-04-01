@@ -1,10 +1,10 @@
 ![https://github.com/Cod3Genius](https://github.com/Cod3Genius/Cod3Genius/blob/main/Banner-cod3genius.png)
 
 
-Somos una empresa con 6 años de experiencia enfocada en el desarrollo de software y soluciones tecnológicas innovadoras. En COD3GENIUS, nos dedicamos a ofrecer productos de alta calidad que satisfagan las necesidades de nuestros clientes y usuarios finales. Nuestro compromiso con la excelencia y la innovación nos impulsa a crear impacto positivo en la sociedad a través del desarrollo de software de vanguardia. Ofrecemos servicios de Desarrollo de Software a Medida, Aplicaciones Móviles, Desarrollo Web, Consultoría Tecnológica, Integración de Sistemas y Soporte Técnico. 
+We are a company with 6 years of experience focused on the development of software and innovative technological solutions. At COD3GENIUS, we are dedicated to offering high quality products that meet the needs of our customers and end users. Our commitment to excellence and innovation drives us to create positive impact on society through the development of cutting-edge software. We offer services of Custom Software Development, Mobile Applications, Web Development, Technology Consulting, Systems Integration and Technical Support.
 
 
-## Tecnologías:
+## Technologies:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
@@ -33,9 +33,9 @@ Somos una empresa con 6 años de experiencia enfocada en el desarrollo de softwa
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
+And some more...
 
-## Encuéntrame en:
+## Meet me at:
 
 [![Discord](https://img.shields.io/badge/Discord-Cod3Genius-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]([https://cod3genius.com/discord](https://discord.gg/QG9asFf7))
 </br>
@@ -48,7 +48,7 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cod3Genius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cod3genius)
 
 
-## Contacto y apoyo:
+## Contact and support:
 
 [![Email](https://img.shields.io/badge/Email_Coorporativo-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:info-servicios@cod3genius.com)
 
